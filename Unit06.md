@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC325: African Politics"
+course_description: "An introductory study of African politics in the context of the continent's recent history. Topics include the internal politics and challenges of African states, their movements towards democratization, their economic status, and the connections between governmental and non-governmental institutions/organizations."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Continent-Wide Challenges for Africa** <span id="6"></span> 
 *One essential aspect of living in a globalized or globalizing world is
 that notions of a border or boundary have new meanings.  Borders become

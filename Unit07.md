@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC325: African Politics"
+course_description: "An introductory study of African politics in the context of the continent's recent history. Topics include the internal politics and challenges of African states, their movements towards democratization, their economic status, and the connections between governmental and non-governmental institutions/organizations."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: African Renaissance?** <span id="7"></span> 
 
 *Prior to the end of the Cold War, African leaders used the term
