@@ -173,3 +173,4 @@ subunit 1.2 (a total of 2.75 hours) on Tuesday night; etc.
 - [Unit 6](https://legacy.saylor.org/polsc325/Unit06/)
 - [Unit 7](https://legacy.saylor.org/polsc325/Unit07/)
 - [Unit 8](https://legacy.saylor.org/polsc325/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC325/POLSC325-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC325/POLSC325-FinalExam-Answers.html)
