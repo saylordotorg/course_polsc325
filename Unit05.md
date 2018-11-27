@@ -178,7 +178,7 @@ Upon successful completion of this unit, the student will be able to:
     Africa”**
     Link: Escuela de Organizacion Industrial: Alexandru Nicolae Cosor’s
     [“The Millennium Development Goals Report 2011 for Northern
-    Africa”](http://www.saylor.org/site/wp-content/uploads/2013/04/POLSC325-5.2.2-TheMillenniumDevelopmentGoalsReport.pdf) (PDF)  
+    Africa”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/POLSC325-5.2.2-TheMillenniumDevelopmentGoalsReport.pdf) (PDF)  
         
      Instructions: Read this article, which explores Northern Africa’s
     Millennium Development Goals. In 2000, the international community

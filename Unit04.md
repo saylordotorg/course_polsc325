@@ -73,9 +73,9 @@ Upon successful completion of this unit, the student will be able to:
     You Didn’t Know about Africa” and African Economic Outlook’s “Human
     Development”**
     Link: The World Bank’s “[Africa Regional
-    Brief](http://www.saylor.org/site/wp-content/uploads/2012/05/polsc325-4.1-Africa-Regional-Brief.pdf)”
+    Brief](https://resources.saylor.org/archived/wp-content/uploads/2012/05/polsc325-4.1-Africa-Regional-Brief.pdf)”
     (PDF) and “[50 Things You Didn’t Know about
-    Africa](http://www.saylor.org/site/wp-content/uploads/2012/05/polsc325-4.1-50-Things-you-didnt-know-about-Africa.pdf)”
+    Africa](https://resources.saylor.org/archived/wp-content/uploads/2012/05/polsc325-4.1-50-Things-you-didnt-know-about-Africa.pdf)”
     (PDF) and African Economic Outlook’s“[Human
     Development](http://www.africaneconomicoutlook.org/en/outlook/human_development/)”
     (HTML)  
