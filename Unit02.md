@@ -52,7 +52,7 @@ Upon successful completion of this unit, the student will be able to:
     Post-Colonial Era”**
     Link: Saylor Foundation’s “[Overview of Politics in the
     Post-Colonial
-    Era](https://resources.saylor.org/archived/wp-content/uploads/2012/02/POLSC325-Subunit-2.1-Overview-of-Politics-in-the-Post-Colonial-Era-FINAL.pdf)”
+    Era](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/POLSC325-Subunit-2.1-Overview-of-Politics-in-the-Post-Colonial-Era-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above, and read the article
@@ -174,7 +174,7 @@ id="2.2"></span> 
     Preferences in Africa”**
     Link: Afrobarometer: Philip Keefer’s “[The Ethnicity Distraction:
     Political Credibility, Clientelism, and Partisan Preferences in
-    Africa](https://resources.saylor.org/archived/wp-content/uploads/2012/05/polsc325-2.5-Keefer.pdf)”
+    Africa](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/polsc325-2.5-Keefer.pdf)”
     (PDF)  
       
      Instructions: The link above takes you to a list of Working Papers

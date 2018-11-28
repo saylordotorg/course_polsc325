@@ -329,7 +329,7 @@ id="1.3"></span> 
     Link: The Saylor Foundation: West Chester University Professor Jim
     Jones’ [“Routes to Independence in Africa. Four Examples Algeria,
     Egypt, Gold Coast, and the
-    Congo”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/POLSC325-Routes-to-Independence-in-Africa.pdf)
+    Congo”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/POLSC325-Routes-to-Independence-in-Africa.pdf)
     (PDF)  
       
      Also Available in:  
@@ -416,19 +416,19 @@ id="1.3"></span> 
     Exercise 1,” “Map for Exercise 2,” “Map Exercise 1 Answer Key,” and
     “Map Exercise 2 Answer Key”**
     Link: The Saylor Foundation’s “[Map Exercises Items to be
-    Identified](https://resources.saylor.org/archived/wp-content/uploads/2012/02/POLSC325-1.3.4-Map-Excercise-Items-to-Be-Identified.pdf),”
+    Identified](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/POLSC325-1.3.4-Map-Excercise-Items-to-Be-Identified.pdf),”
     “[Map Exercise
-    1](https://resources.saylor.org/archived/wp-content/uploads/2012/02/POLSC-1.3.4-Map-Exercise-1.pdf),”
+    1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/POLSC-1.3.4-Map-Exercise-1.pdf),”
     “[Map Exercise
-    2](https://resources.saylor.org/archived/wp-content/uploads/2012/02/POLSC325-1.3.4-Map-Exercise-2.pdf),”
+    2](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/POLSC325-1.3.4-Map-Exercise-2.pdf),”
     “[Map for Map Exercise
-    1](https://resources.saylor.org/archived/wp-content/uploads/2012/02/POLSC325-1.3.4-Map-for-Map-Exercise-1.jpg),”
+    1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/POLSC325-1.3.4-Map-for-Map-Exercise-1.jpg),”
     “[Map for Exercise
-    2](https://resources.saylor.org/archived/wp-content/uploads/2012/02/POLSC325-1.3.4-Map-for-Map-Exercise-2.jpg),”
+    2](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/POLSC325-1.3.4-Map-for-Map-Exercise-2.jpg),”
     “[Answer Key to Map Exercise
-    1](https://resources.saylor.org/archived/wp-content/uploads/2012/02/POLSC325-1.3.4-Map-Exercise-1-Answer-Key.pdf),”
+    1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/POLSC325-1.3.4-Map-Exercise-1-Answer-Key.pdf),”
     and “[Answer Key to Map Exercise
-    2](https://resources.saylor.org/archived/wp-content/uploads/2012/02/POLSC325-1.3.4-Map-Exercise-2-Answer-Key.pdf)”
+    2](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/POLSC325-1.3.4-Map-Exercise-2-Answer-Key.pdf)”
     (PDF)  
         
      Instructions: Please download the documents in the order listed
